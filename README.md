@@ -1,2 +1,2 @@
-# profile_page_v1
- Techdegree profile page
+# profile_page
+ My profile page
